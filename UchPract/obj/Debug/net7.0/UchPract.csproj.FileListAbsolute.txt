@@ -1,0 +1,15 @@
+C:\Users\7\source\repos\UchPract\bin\Debug\net7.0\UchPract.exe
+C:\Users\7\source\repos\UchPract\bin\Debug\net7.0\UchPract.deps.json
+C:\Users\7\source\repos\UchPract\bin\Debug\net7.0\UchPract.runtimeconfig.json
+C:\Users\7\source\repos\UchPract\bin\Debug\net7.0\UchPract.dll
+C:\Users\7\source\repos\UchPract\bin\Debug\net7.0\UchPract.pdb
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\UchPract.csproj.AssemblyReference.cache
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\UchPract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\UchPract.AssemblyInfoInputs.cache
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\UchPract.AssemblyInfo.cs
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\UchPract.csproj.CoreCompileInputs.cache
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\UchPract.dll
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\refint\UchPract.dll
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\UchPract.pdb
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\UchPract.genruntimeconfig.cache
+C:\Users\7\source\repos\UchPract\obj\Debug\net7.0\ref\UchPract.dll
