@@ -141,7 +141,7 @@ class Program
     {
         Console.Write("Введите вид транспорта (Самолёт, Корабль, Автомобиль): ");
         string? userInput = Console.ReadLine();
-        Transport transport = null;
+        Transport transport;
         switch (userInput?.Trim().ToLower())
         {
             case "самолет":
@@ -243,7 +243,7 @@ class Program
         string? port = Console.ReadLine();
         double x = ReadDouble("Начальная координата X: ");
         double y = ReadDouble("Начальная координата Y: ");
-        return new Ship(price, speed, year, passengers, port: port, x, y);
+        return new Ship(price, speed, year, passengers, port ?? string.Empty, x, y);
     }
 
     // Метод для создания автомобиля с вводом характеристик от пользователя
